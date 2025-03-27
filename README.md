@@ -1,6 +1,6 @@
 # Blades in the Dark API
 
-This project is an API for the game "Blades in the Dark". The API provides access to playbooks, abilities, and other game-related data. This API is made for [ZelenskaD](https://github.com/ZelenskaD) as a part of [Springboard](https://www.springboard.com/)'s Software Engineering Career Track Capstone Project 1.
+This project is an API for the game "Blades in the Dark". The API provides access to playbooks, abilities, and other game-related data. This API is made for [Daria Surganov](https://github.com/dvsurganov) as a part of [Springboard](https://www.springboard.com/)'s Software Engineering Career Track Capstone Project 1.
 
 ## Features
 
